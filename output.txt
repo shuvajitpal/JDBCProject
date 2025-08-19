@@ -1,2 +1,7 @@
 Connected to database!
 A new user was inserted successfully!
+
+User Table Data:
+1 | Shuvajit Pal | shuvajitpal103@gmail.com
+2 | Debasish Behera | debasish@tech69.com
+3 | Farhat Akram | farhatakram7077@gmail.com
