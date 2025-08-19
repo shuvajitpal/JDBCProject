@@ -1,0 +1,2 @@
+Connected to database!
+A new user was inserted successfully!
